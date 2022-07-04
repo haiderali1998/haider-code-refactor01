@@ -17,7 +17,7 @@ header {
 
  h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 68px;
 }
 
 .seo {
@@ -86,7 +86,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2a607c;
+    background-color: #0072bb;
 }
 /*defined a class to style each benefit for readability */
 .benefit {
@@ -121,27 +121,27 @@ p {
 }
 
 
-
+/*defined a class tp style each image inside of a service class*/
 .service img {
     max-height: 200px;
 }
 
 
-
+/*defined a class to style each image inside of a service class*/
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 
-
+/*targeted the element instead of the footer class*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*define the h2 instead of the footer*/
 footer h2 {
     font-size: 20px;
 }
