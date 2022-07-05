@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 
 <br>
 
-![alt text](/01/haider-code-refactor01/assets/images/mainmockup.png)
+![my Mock Up](/01/haider-code-refactor01/assets/images/mainmockup.png)
 
 ### My Development Enviromment:
 * [Visual Studio Code](https://code.visualstudio.com/)
