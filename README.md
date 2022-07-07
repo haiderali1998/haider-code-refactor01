@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 
 <br>
 
-![my Mock Up](/01/haider-code-refactor01/assets/images/testimage.png)
+![my Mock Up](./assets/images/testimage.png)
 
 ## Link
 "https://github.com/haiderali1998/haider-code-refactor01"
